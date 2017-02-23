@@ -30,6 +30,7 @@ main {
 }
 
 header {
+	width: 100%;
 	background-color: #52bad5;
 	color:white;
 }
@@ -77,13 +78,14 @@ footer {-webkit-order:3;
 	order:3;
 	width: 100%;
 }
+/*
 form {
 	padding-right: 50px;
 	float:right;
     display: block;
     margin-top: 0em;
 }
-
+*/
 @media only screen and (min-width: 300px) {
 nav {
     max-width: 100%;
